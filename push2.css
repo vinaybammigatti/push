@@ -1,0 +1,30 @@
+/* General styles for the entire webpage */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header styling */
+h1 {
+    text-align: center;
+    color: #0078D7; /* A nice blue shade */
+}
+
+/* Paragraph styling */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 10px;
+}
+
+/* Link styling */
+a {
+    color: #0078D7;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
